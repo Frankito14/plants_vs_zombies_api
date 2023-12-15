@@ -1,0 +1,178 @@
+[
+    {
+        "name":"Zombie",
+        "special": "Regular Garden-variety Zombie",
+        "toughness":"Low",
+        "description":"This zombie loves brains. Can't getenough. Brains, brains, brains, day in andnight out. Old and stinky brains? Rottenbrains? Brains clearly past their prime? Doesn't matter. Regular zombie wants 'em"
+        
+    },
+    {
+        "name":"Flag Zombie",
+        "special": "Flag Zombie marks the arrival of a huge pile or 'wave' of zombies",
+        "toughness":"Low",
+        "description":"Make no mistake, Flag Zombie loves brains.But somewhere down the line he also pickedup a fascination with flags. Maybe it'sbecause the flags always have brains onthem. Hard to say."
+    }, 
+    {
+        "name":"Conehead Zombie",
+        "special": "His traffic cone headpiece makes himtwice as tough as normal zombies.",
+        "toughness":"Medium",
+        "description":"Conehead Zombie shuffled mindlesslyforward like every other zombie. Butsomething made him stop, made him pick upa traffic cone and stick it on his head.Oh yeah. He likes to party."
+    },
+    {
+        "name":"Pole Vaulting Zombie",
+        "special": "Pole Vaulting Zombie vaults with a pole. Jumps the first plant he runs into",
+        "speed":"Fast, then Normal (after jump)",
+        "toughness":"Medium",
+        "description":"Some zombies take it further, aspiremore, push themselves beyond the normalinto greatness. That's Pole VaultingZombie right there. That is so him."
+    },
+    {
+        "name":"Buckethead Zombie",
+        "special": "His bucket hat makes him extremely resistant to damage.",
+        "toughness":"High",
+        "weakness":"Magnet-shroom",
+        "description":"Buckethead Zombie always wore a bucket.Part of it was to assert his uniquenessin an uncaring world. Mostly he justforgot it was there in the first place."
+    },
+    {
+        "name":"Newspaper Zombie",
+        "special": "His newspaper provides limited defense.",
+        "toughness":"Low",
+        "accesory-toughness":"Low",
+        "speed":"Normal, then Fast (after losing newspaper)",
+        "description":"Newspaper Zombie was *this* close tofinishing his Sudoku puzzle. No wonderhe's freaking out."
+    },
+    {
+        "name":"Screen Door Zombie",
+        "special": "His screen door is an effective shield.",
+        "toughness":"Low",
+        "accesory-toughness":"High",
+        "weakness":"Magnet-shroom and Fume-shroom",
+        "description":"He got his screen door from the lastinexpertly defended home he visited, afterhe ATE THE HOMEOWNER'S BRAINS."
+    },
+    {
+        "name":"Football Zombie",
+        "special": "Football Zombie makes the big plays.",
+        "toughness":"Very high",
+        "speed":"Fast",
+        "weakness":"Magnet-shroom",
+        "description":"Football Zombie gives 110 percent wheneverhe's on the field. He's a team player whodelivers both offensively and defensively.He has no idea what a football is."
+    },
+    {
+        "name":"Dancing Zombie",
+        "special": "Any resemblance between Dancing Zombie and persons living or dead is purely coincidental. Summons back-up dancers",
+        "toughness":"Medium",
+        "description":"Dancing Zombie's latest album,'GrarrBRAINSarblarbl,' is alreadyrocketing up the undead charts."
+    },
+    {
+        "name":"Backup Dancer Zombie",
+        "special": "These zombies appear in sets of four whenever Dancing Zombie rocks out",
+        "toughness":"Low",
+        "description":"Backup Dancer Zombie spent six years perfecting his art at the Chewliard Performing Arts School in Zombie New York City"
+    },
+    {
+        "name":"Ducky Tube Zombie",
+        "special": "The ducky tube allows this zombie to float on water.",
+        "toughness":"Low",
+        "description":"It takes a certain kind of zombie to be aDucky Tuber. Not every zombie can handleit. Some crack. They can't take it. Theywalk away and give up on brains forever"
+    },
+    {
+        "name":"Snorkel Zombie",
+        "special": "Snorkel zombies can swim underwater. Submerges to avoid attacks",
+        "toughness":"Low",
+        "description":"Zombies don't breathe. They don't needair. So why does Snorkel Zombie need asnorkel to swim underwater? Answer: peer pressure."
+    },
+    {
+        "name":"Zomboni",
+        "special": "The Zomboni applies ice, steam and pressure to your plants. Crushes plants, leaves an ice trail",
+        "toughness":"High",
+        "description":"Often mistaken for a zombie driving anice machine, the Zomboni is a totallydifferent life-form more closely relatedto a space ogre than a zombie."
+    },
+    {
+        "name":"Zombie Bobsled Team",
+        "special": "These zombies appear in teams of four. Only appear on ice",
+        "toughness":"Low",
+        "description":"Zombie Bobsled Team worked hard to get where they are. They live together, eat brains together, and train together to become a cohesive zombie unit."
+    },
+    {
+        "name":"Dolphin Rider Zombie",
+        "special": "Dolphin Rider Zombies use dolphins to exploit weaknesses in your pool defense. Jumps over the first plant he runs into",
+        "toughness":"Medium",
+        "speed":"Fast, then Slow (after jump)",
+        "description":"The dolphin is also a zombie."
+    },
+    {
+        "name":"Jack-in-the-box Zombie",
+        "special": "This zombie carries an explosive surprise. Jack-in-the-box explodes",
+        "toughness":"Medium",
+        "speed":"Fast",
+        "weakness":"Magnet-shroom",
+        "description":"This zombie shivers, not because he's cold but because he's crazy."
+    },
+    {
+        "name":"Balloon Zombie",
+        "special": "Balloon Zombie floats above the fray, immune to most attacks. Can Fly",
+        "toughness":"Low",
+        "weakness":"Cactus and Blover",
+        "description":"Balloon Zombie really lucked out. Theballoon thing really works and none ofthe other zombies have picked up on it."
+    },
+    {
+        "name":"Digger Zombie",
+        "special": "This zombie digs to bypass your defenses. Tunnels underground and appears on the left side of the lawn",
+        "toughness":"Medium",
+        "speed":"Fast, then Slow",
+        "weakness":"Magnet-shroom and Split Pea",
+        "description":"Digger Zombie spends three days a week getting his excavation permits in order."
+    },
+    {
+        "name":"Pogo Zombie",
+        "special": "Pogo Zombie hops to bypass your defenses. Hops over plants",
+        "toughness":"Medium",
+        "weakness":"Magnet-shroom",
+        "description":"Sproing! Sproing! Sproing! That's thesound of a powerful and effective zombie doing what he does best."
+    },
+    {
+        "name":"Zombie Yeti",
+        "special": "A rare and curious creature. Runs away after a short while",
+        "toughness":"High",
+        "description":"Little is known about Zombie Yeti other than his name, bith date, social security number, educational history, past work experience and sandwich preference (roast beef and Swiss)"
+    },
+    {
+        "name":"Bungee Zombie",
+        "special": "Bungee Zombie attacks from above. Descends from the sky and steals a plant",
+        "toughness":"Medium",
+        "description":"Bungee Zombie loves to take risks. After all, what's the point of being dead if you don't live a little?"
+    },
+    {
+        "name":"Ladder Zombie",
+        "special": "Ladder Zombie climbs over obstacles.",
+        "accesory-toughness":"Medium",
+        "toughness":"Medium",
+        "speed":"Fast, then Slow (after placing ladder)",
+        "weakness":"Magnet-shroom and Fume-shroom",
+        "description":"He picked the ladder up for $8.99."
+        
+    },
+    {
+        "name":"Catapult Zombie",
+        "special": "Catapult Zombie operates heavy machinery. Lobs basketballs at your plants",
+        "toughness":"Medium",
+        "description":"Of all the things Catapult Zombie could launch with his catapult, basketballsseemed like the best and most obviouschoice."
+    },
+    {
+        "name":"Gargantuar",
+        "special": "Gargantuar is a gigantic zombie.",
+        "toughness":"Extremely high",
+        "description":"When Gargantuar walks, the earth trembles. When he moans, other zombiesfall silent. He is the zombie other zombies dream they could be. But he still can'tfind a girlfriend."
+    },
+    {
+        "name":"Imp",
+        "special": "Imps are tiny zombies hurled by Gargantuars deep into your defenses.",
+        "toughness":"Low",
+        "description":"Imp may be small, but he's wiry. He's proficient in zombie judo, zombie karate, and zombie bare-knuckle brawling. He also plays the Melodica."
+    },
+    {
+        "name":"Dr. Zomboss",
+        "special": "Dr. Zomboss rules them all",
+        "toughness":"Extreme",
+        "description":"Edgar George Zomboss achieved his Doctorade in Thamatology in only two years. Quickly mastering thamatological technology, he built his fearsome Zombot and set about establishing absolute dominance of his local subdivision."
+    }
+]

@@ -17,7 +17,8 @@ class ZombieSeeder extends Seeder
 
         $json = Storage::disk('local')->get("/json/zombies.json");
         $zombies = json_decode($json, true);
-        $path = env('LOCAL_HOST').env('ASSET_URL');
+        //$path = env('LOCAL_HOST').env('ASSET_URL');
+        $path = "https://raw.githubusercontent.com/Frankito14/plants_vs_zombies_api/main/storage/app/public/assets";
         $imageExt = ".webp";
 
         foreach($zombies as $zombie){

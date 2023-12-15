@@ -18,7 +18,8 @@ class PlantaSeeder extends Seeder
     {
         $json = FacadesStorage::disk('local')->get("/json/plants.json");
         $plants = json_decode($json, true);
-        $path = env('LOCAL_HOST').env('ASSET_URL');
+        //$path = env('LOCAL_HOST').env('ASSET_URL');
+        $path = "https://raw.githubusercontent.com/Frankito14/plants_vs_zombies_api/main/storage/app/public/assets";
         $imageExt = ".webp";
 
         foreach($plants as $plant){
